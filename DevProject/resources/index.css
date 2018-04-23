@@ -1,0 +1,54 @@
+.title {
+  color: LightGreen;
+  text-align: center;
+}
+
+.destinations{
+  text-align: center;
+}
+ol li {
+  list-style: none;
+  border: 7px solid white;
+  background: palegreen;
+  font-size: 1.2;
+  font-weight: bold;
+  align-items: center;
+}
+
+
+
+p {
+  color: white;
+  opacity: 0.8;
+  background: rgba(0, 0, 225, 0.6);
+  background-blend-mode: lighten;
+  padding: 3px;
+  border: 3px solid tan;
+  font-size: 1.6;
+  font-weight: bold;
+}
+
+body {
+  font-family: fantasy;
+  background-color: teal;
+
+
+}
+h2 {
+  color: LightGreen;
+  text-align: center;
+}
+
+h3 {
+  color: LightGreen;
+  text-align: center;
+}
+
+img {
+  border: 3px solid black;
+  padding: 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width = 140%
+}
